@@ -1,6 +1,3 @@
 {
-  "settingsInheritedFrom": "hashicorp/mend-config@main",
-  "scanSettingsSAST": {
-    "enableScan": false
-  }
+  "settingsInheritedFrom": "CamGHcom/whitesource-config@main"
 }
